@@ -1,12 +1,14 @@
 ## clinical:sidebar
 
-Basic sidebar for ClinicalFramework apps.
+Basic sidebar for ClinicalFramework apps.  Mostly used for testing.  
 
 
 ==========================
 ####Package Installation  
 
 ````bash
+cd myapp
+git clone https://github.com/clinical-meteor/sidebar packages/sidebar
 meteor add clinical:sidebar
 ````
 
